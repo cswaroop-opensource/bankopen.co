@@ -1,3 +1,34 @@
 
 https://developers.bankopen.co/
 
+** Contact
+
+| Key                        | Mandatory                      |
+|----------------------------+--------------------------------|
+| accounts_id                | Y                              |
+| companies_id               | Y                              |
+| name                       | Y                              |
+| primary_contact            | N                              |
+| type_of_contact            | `Individual` or `Organisation` |
+| email_id                   | Y                              |
+| mobile_number              | Y                              |
+| landline_number            | N                              |
+| shipping_address           | N                              |
+| address_line               | N                              |
+| city                       | N                              |
+| state                      | N                              |
+| pincode                    | N                              |
+| billing_address            | N                              |
+| address_line               | N                              |
+| city                       | N                              |
+| state                      | N                              |
+| pincode                    | N                              |
+| currency                   | N                              |
+| pan                        | N                              |
+| gstin                      | N                              |
+| tds                        | N                              |
+| notes                      | N                              |
+| beneficiary_account_number | N                              |
+| ifsc_code                  | N                              |
+| bank_name                  | N                              |
+| other_details              | N                              |
